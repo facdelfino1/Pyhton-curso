@@ -1,0 +1,11 @@
+# Entornos virtuales
+venv/
+env/
+.env/
+
+#Python cache
+__pycache__/
+*.py[cod]
+
+#archivos de configuración
+.vscode/
