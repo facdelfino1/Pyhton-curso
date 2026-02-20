@@ -36,4 +36,6 @@ def verificar_acceso(nombre, *permisos, **atributos):
 
 
 verificar_acceso("Juan", "admin", "editor", edad=30, ciudad="Buenos Aires", idiomas="español") 
+
+#Quiero probar el git pull 
     
